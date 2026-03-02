@@ -1,4 +1,4 @@
-# Live-API-Data-Integration-with-Python-and-Power-BI-dashboard
+
 Project Overview
 
 This project demonstrates the development of a real-time analytical dashboard by integrating live data from a public API into Power BI using Python. The objective is to eliminate manual data updates by building an automated data pipeline that continuously fetches, processes, and visualizes global socio-economic and health indicators.
