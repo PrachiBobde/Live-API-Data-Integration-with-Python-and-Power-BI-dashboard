@@ -1,25 +1,24 @@
 
-Project Overview-
+Project Overview=>
 
 This project demonstrates the development of a real-time analytical dashboard by integrating live data from a public API into Power BI using Python. The objective is to eliminate manual data updates by building an automated data pipeline that continuously fetches, processes, and visualizes global socio-economic and health indicators.
 
-The solution enables decision-makers to monitor key development metrics across countries through dynamic and automatically refreshed dashboards.
+The solution enables decision-makers to monitor key development metrics across countries through dynamic and automatically refreshed dashboards.  
 
 
-
-Problem Statement-
+Problem Statement=>
 
 Organizations and analysts often rely on static datasets that quickly become outdated, leading to delayed insights and inefficient decision-making. There is a need for a system that can automatically retrieve continuously updated global data and transform it into actionable insights without manual intervention.
 
 
-
-Solution-
+Solution=>
 
 A Python-based data pipeline was developed to extract live data from a public API, perform preprocessing, and establish a live connection with Power BI. The dashboard refreshes automatically whenever new data becomes available, enabling real-time monitoring and analysis.
 
 
 
-Key Features-
+
+Key Features=>
 
 Automated data extraction from live public APIs using Python
 
@@ -27,11 +26,10 @@ Real-time data integration with Power BI
 
 Interactive visualizations for cross-country comparison
 
-Trend analysis across multiple socio-economic indicators
+Trend analysis across multiple socio-economic indicator
 
 
-
-Dashboard Analysis Objectives-
+Dashboard Analysis Objectives=>
 
 1. Economic and Social Landscape Analysis
 
@@ -103,7 +101,7 @@ Investigation of the relationship between public health expenditure and life exp
 
 
 
-Technology Stack-
+Technology Stack=>
 
 Python
 
@@ -117,7 +115,7 @@ Data Visualization
 
 
 
-Business Impact-
+Business Impact=>
 
 Eliminated manual data collection and update processes
 
@@ -127,7 +125,7 @@ Supported data-driven policy and investment analysis
 
 
 
-Project Workflow-
+Project Workflow=>
 
 Extract live data from API using Python
 
