@@ -1,19 +1,25 @@
 
-Project Overview
+Project Overview-
 
 This project demonstrates the development of a real-time analytical dashboard by integrating live data from a public API into Power BI using Python. The objective is to eliminate manual data updates by building an automated data pipeline that continuously fetches, processes, and visualizes global socio-economic and health indicators.
 
 The solution enables decision-makers to monitor key development metrics across countries through dynamic and automatically refreshed dashboards.
 
-Problem Statement
+
+
+Problem Statement-
 
 Organizations and analysts often rely on static datasets that quickly become outdated, leading to delayed insights and inefficient decision-making. There is a need for a system that can automatically retrieve continuously updated global data and transform it into actionable insights without manual intervention.
 
-Solution
+
+
+Solution-
 
 A Python-based data pipeline was developed to extract live data from a public API, perform preprocessing, and establish a live connection with Power BI. The dashboard refreshes automatically whenever new data becomes available, enabling real-time monitoring and analysis.
 
-Key Features
+
+
+Key Features-
 
 Automated data extraction from live public APIs using Python
 
@@ -23,7 +29,10 @@ Interactive visualizations for cross-country comparison
 
 Trend analysis across multiple socio-economic indicators
 
-Dashboard Analysis Objectives
+
+
+Dashboard Analysis Objectives-
+
 1. Economic and Social Landscape Analysis
 
 Average GDP per capita across countries
@@ -92,7 +101,9 @@ Disease burden
 
 Investigation of the relationship between public health expenditure and life expectancy outcomes
 
-Technology Stack
+
+
+Technology Stack-
 
 Python
 
@@ -104,7 +115,9 @@ Data Transformation & Cleaning
 
 Data Visualization
 
-Business Impact
+
+
+Business Impact-
 
 Eliminated manual data collection and update processes
 
@@ -112,7 +125,9 @@ Enabled real-time monitoring of global development indicators
 
 Supported data-driven policy and investment analysis
 
-Project Workflow
+
+
+Project Workflow-
 
 Extract live data from API using Python
 
