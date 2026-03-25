@@ -19,8 +19,6 @@ Automated data extraction from live public APIs using Python
 
 Real-time data integration with Power BI
 
-Automated dashboard refresh without manual uploads
-
 Interactive visualizations for cross-country comparison
 
 Trend analysis across multiple socio-economic indicators
